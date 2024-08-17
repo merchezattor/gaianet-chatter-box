@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__
+*.pyc
+logs/*
+
+.allorad
+.cache
+inference-data
+worker-data
+
+config.json
+env
+env_file
+.env
+
+data/*
+chat_log.txt
